@@ -1,0 +1,25 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT Uzytkownicy (Uzytkownik)+>
+<!ATTLIST Uzytkownicy
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Uzytkownik (imie,nazwisko,email,haslo)>
+<!ATTLIST Uzytkownik
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT imie (#PCDATA)>
+<!ATTLIST imie
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT nazwisko (#PCDATA)>
+<!ATTLIST nazwisko
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT email (#PCDATA)>
+<!ATTLIST email
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT haslo (#PCDATA)>
+<!ATTLIST haslo
+  xmlns CDATA #FIXED ''>

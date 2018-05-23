@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<Uzytkownicy>
+	<Uzytkownik>
+		<imie>Jan</imie>
+		<nazwisko>Nowak</nazwisko>
+		<email>jan.nowak@wp.pl</email>
+		<haslo>qazwsx123</haslo>
+	</Uzytkownik>
+	<Uzytkownik>
+		<imie>Marek</imie>
+		<nazwisko>Kowalski</nazwisko>
+		<email>m.kowalski@gmail.com</email>
+		<haslo>qwerty123</haslo>
+	</Uzytkownik>
+	<Uzytkownik>
+		<imie>Adam</imie>
+		<nazwisko>Kwiatek</nazwisko>
+		<email>kwiat@onet.pl</email>
+		<haslo>s33ds</haslo>
+	</Uzytkownik>
+</Uzytkownicy>

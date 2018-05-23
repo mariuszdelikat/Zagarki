@@ -1,0 +1,21 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT Zegarki (Zegarek)+>
+<!ATTLIST Zegarki
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Zegarek (marka,model,rodzaj)>
+<!ATTLIST Zegarek
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT marka (#PCDATA)>
+<!ATTLIST marka
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT model (#PCDATA)>
+<!ATTLIST model
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT rodzaj (#PCDATA)>
+<!ATTLIST rodzaj
+  xmlns CDATA #FIXED ''>

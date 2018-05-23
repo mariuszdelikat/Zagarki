@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<Zegarki>
+  <Zegarek>
+    <marka>Timex</marka>
+    <model>GEG423Br</model>
+    <rodzaj>Mechaniczny</rodzaj>
+    <zdjecie>~/src/6.jpg</zdjecie>
+  </Zegarek>
+  <Zegarek>
+    <marka>Orient</marka>
+    <model>544GFS2</model>
+    <rodzaj>Automatyczny</rodzaj>
+    <zdjecie>~/src/7.jpg</zdjecie>
+  </Zegarek>
+  <Zegarek>
+    <marka>Samsung</marka>
+    <model>Gear S3</model>
+    <rodzaj>Smartwatch</rodzaj>
+    <zdjecie>~/src/8.jpg</zdjecie>
+  </Zegarek>
+  <Zegarek>
+    <marka>Casio</marka>
+    <model>45HTD23Q</model>
+    <rodzaj>Mechaniczny</rodzaj>
+    <zdjecie>~/src/9.jpg</zdjecie>
+  </Zegarek>
+</Zegarki>
